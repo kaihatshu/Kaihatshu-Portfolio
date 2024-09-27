@@ -1,0 +1,6 @@
+homepageurl: https://as1.v.je/index.php
+adminuser: josh@admin.com
+adminpass: 123
+nonadminuser:  jack@gmail.com
+nonadminpass: 123
+
